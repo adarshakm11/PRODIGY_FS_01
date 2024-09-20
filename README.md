@@ -1,0 +1,1 @@
+This repository helps to implement a user authentication system with secure login and registration functionality. Where Users should be able to sign up for an account, log in securely, and access protected routes only after successful authentication. Also we can Use standard mechanisms to handle password hashing, session management, and user role- based access control.
